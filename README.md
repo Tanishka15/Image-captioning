@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ## How to Run
 1. Clone this repository.
    ```bash
-   git clone <repository-url>
+   git clone <(https://github.com/Tanishka15/Image-captioning)>
    ```
 2. Install the required dependencies.
 3. Download and preprocess the dataset.
