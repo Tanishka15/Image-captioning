@@ -85,5 +85,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Author**: Tanishka
 
-For questions or feedback, please reach out at [your email or contact info].
+For questions or feedback, please reach out at [randivetanishka17@gmail.com].
 
